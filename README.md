@@ -1,6 +1,4 @@
 
-https://github.com/lecasme/Zemoga/blob/master/screenshots/logo.png?raw=true
-
 ![Logo](https://github.com/lecasme/Zemoga/blob/master/screenshots/logo.png?raw=true)
 
 Clean Architecture + MVVM + Live Data + View Binding + Koin + Room + Retrofit 
