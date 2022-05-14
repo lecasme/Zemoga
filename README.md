@@ -1,5 +1,7 @@
 
-![Logo](https://raw.githubusercontent.com/lecasme/Zemoga/master/app/screenshots/logo.png?raw=true)
+https://github.com/lecasme/Zemoga/blob/master/screenshots/logo.png?raw=true
+
+![Logo](https://github.com/lecasme/Zemoga/blob/master/screenshots/logo.png?raw=true)
 
 Clean Architecture + MVVM + Live Data + View Binding + Koin + Room + Retrofit 
 
@@ -14,8 +16,8 @@ Referencias a las librerias usadas en este proyecto:
 
 ## Screenshots
 
-![Login](https://raw.githubusercontent.com/lecasme/Zemoga/master/app/screenshots/image1.png?raw=true)
-![Home](https://raw.githubusercontent.com/lecasme/Zemoga/master/app/screenshots/image2.png?raw=true)
-![Detail](https://raw.githubusercontent.com/lecasme/Zemoga/master/app/screenshots/image3.png?raw=true)
+![Login](https://github.com/lecasme/Zemoga/blob/master/screenshots/imagen1.png?raw=true)
+![Home](https://github.com/lecasme/Zemoga/blob/master/screenshots/imagen2.png?raw=true)
+![Detail](https://github.com/lecasme/Zemoga/blob/master/screenshots/imagen3.png?raw=true)
 
 
