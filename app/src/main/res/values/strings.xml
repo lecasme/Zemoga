@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zemoga</string>
+    <string name="first_tab">All</string>
+    <string name="second_tab">Favorites</string>
+    <string name="error">An unexpected error occurred, please try again later</string>
+    <string name="connectivity">No internet connection found</string>
+    <string name="try_again">Try Again</string>
+    <string name="delete">Delete All</string>
+    <string name="reload">Reload</string>
+    <string name="comments">Comments</string>
+    <string name="soon">Coming soon...</string>
+
+
+</resources>
